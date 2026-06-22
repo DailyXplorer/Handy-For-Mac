@@ -40,6 +40,12 @@ These numbers describe the repository and local app footprint on my machine. The
 - Global shortcuts, push-to-talk, recording overlay, history, audio feedback, and post-processing
 - Local ZIP/DMG packaging script for personal builds
 
+## Screenshots
+
+| Model onboarding | General settings |
+| --- | --- |
+| ![Choose a transcription model during onboarding](docs/screenshots/onboarding-models.png) | ![Configure shortcuts, language, microphone, and audio feedback](docs/screenshots/general-settings.png) |
+
 ## Requirements
 
 - macOS 14 or newer
